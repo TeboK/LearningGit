@@ -1,0 +1,7 @@
+A subplot
+Figure-a container holding our plots
+Axis are the a
+Adding a legend to the plot
+plt.legend
+Adding to the plot
+using the plt command
